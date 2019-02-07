@@ -1,3 +1,4 @@
+# How to include SIFT libraries
 1.	Download opencv-3.4.2 https://github.com/opencv/opencv/releases/download/3.4.2/opencv-3.4.2-vc14_vc15.exe  
 2.	Download open_contrib-3.4.2.zip https://github.com/opencv/opencv_contrib/archive/3.4.2.zip  
 3.	Download Cmake (version doesn’t matter) cmake-3.13.0-rc3-win64-x64.msi  
